@@ -1,7 +1,7 @@
 ###Internet And Process###
 cd $HOME
 rm -rf .ngrok2 > /dev/null 2>&1
-cd $HOME/sneakphish.sh
+
 terminate(){
 pingngrok=$(ps aux | grep -o "ngrok" | head -n1)
 pingphp=$(ps aux | grep -o "php" | head -n1)
