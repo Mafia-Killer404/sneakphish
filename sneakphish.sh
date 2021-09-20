@@ -51,8 +51,7 @@ echo -e '\e[34m
 \e[34m         ██\e[90m║     \e[34m██\e[90m║  \e[34m██\e[90m║\e[34m██\e[90m║\e[34m███████\e[90m║\e[34m██\e[90m║  \e[34m██\e[90m║
 \e[90m         ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝'
 echo
-echo -e "         \e[92m::~:: \e[0mCREATED BY MAFIA-KILLER\e[92m ::~::\e[0m"
-echo -e "         \e[92m::~:: \e[0m+923132197796\e[92m ::~::\e[0m"
+
 echo
 }
 
